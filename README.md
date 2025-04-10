@@ -1,4 +1,6 @@
 # 📡 Hệ Thống Theo Dõi Vị Trí Qua SMS Dùng ESP32, GPS và SIM800L
+![image](https://github.com/user-attachments/assets/f5f0905c-b233-4d7f-898c-2f55462b22c5)
+
 
 ## 📘 Mô tả Dự Án
 
